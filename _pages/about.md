@@ -6,7 +6,11 @@ last_modified_at: 2022-10-22T17:57:13-05:00
 layout: single
 author_profile: true
 author: Prathmesh Madhu
+redirect_from:
+    - /about/
+    - /about.html
 ---
+
 ## Background
 This interdisciplinary research project "Iconographics" is dedicated to innovative possibilities of digital image recognition for the arts and humanities. While computer vision is often already capable of identifying individual objects or specific artistic styles in images, the project faces the open problem of also digitally opening up the more complex image structures and contexts.
 
